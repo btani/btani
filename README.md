@@ -4,6 +4,6 @@ hi there 👋
 ```csharp
 name: btani
 currently: 42-Firenze Luiss student
-currently_learning: "C", "C++, C#" 
+currently_learning: C, C++, C#
 hobbies: "books📚", "PUBG💣", "popcorn🍿 & films🎥"
 ```
