@@ -3,7 +3,7 @@ hi there 👋
 ----------------------------
 ```csharp
 name: btani
-currently: 42-Firenze Luiss student
+currently: junior software developer and 42-Firenze student
 currently_learning: C, C++, C#
 hobbies: "books📚", "PUBG💣", "popcorn🍿 & films🎥"
 ```
